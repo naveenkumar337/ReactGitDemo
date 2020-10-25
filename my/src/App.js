@@ -7,6 +7,7 @@ function App() {
     <div className="App">
      <Wel />
      <h4>Welcome to demo2</h4>
+     <h3>welcome to git control</h3>
     </div>
   );
 }
