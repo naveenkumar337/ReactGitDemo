@@ -7,6 +7,8 @@ function App() {
     <div className="App">
      <Wel />
      <h5>welcome to master</h5>
+     <h4>Welcome to demo2</h4>
+     <h3>welcome to git control</h3>
     </div>
   );
 }
