@@ -6,6 +6,7 @@ function App() {
   return (
     <div className="App">
      <Wel />
+     <h3>welcome to git control</h3>
     </div>
   );
 }
